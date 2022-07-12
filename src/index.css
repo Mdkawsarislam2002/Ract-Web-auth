@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menuToggleBtn {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  z-index: 10;
+}
+.menuToggleBtnReverse {
+  position: absolute;
+  left: -100%;
+  top: 0%;
+  z-index: 10;
+}
+.squce {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}

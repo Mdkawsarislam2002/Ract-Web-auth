@@ -1,0 +1,6 @@
+.show {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+  transition: all 0.3s ease-in;
+}
